@@ -1,1 +1,6 @@
-
+h1 {color: brown;
+}
+.parte1 {background-color: green;
+	font-size: 200%;	
+    display: flex;
+}
